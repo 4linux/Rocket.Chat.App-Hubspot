@@ -1,0 +1,8 @@
+{
+    "hubspot_client_id_label": "ID do cliente",
+    "hubspot_client_id_description": "ID exclusivo do seu aplicativo  usado para iniciar a OAuth",
+    "hubspot_client_secret_label": "Segredo do cliente",
+    "hubspot_client_secret_description": "Usado para estabelecer e atualizar a autenticação OAuth",
+    "hubspot_redirect_uri_label": "URL de redirecionamento",
+    "hubspot_redirect_uri_description": "Os usuários devem ser redirecionados para este local depois de receberem acesso ao seu aplicativo"
+}

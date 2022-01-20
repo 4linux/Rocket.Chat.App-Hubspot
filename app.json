@@ -1,0 +1,16 @@
+{
+    "id": "a1a4ef6a-a4f8-4542-8e93-4732842cc705",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.29.2",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "4Linux",
+        "homepage": "http://4linux.com.br/",
+        "support": "http://4linux.com.br/"
+    },
+    "name": "Integração Hubspot",
+    "nameSlug": "integrao-hubspot",
+    "classFile": "IntegracaoHubspotApp.ts",
+    "description": "Realiza integração com o Hubspot manipulando contatos e negócios",
+    "implements": []
+}
